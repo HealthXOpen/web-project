@@ -1,9 +1,9 @@
 ---
-name: Bug report
+name: aBug report
 about: Create a report to help us improve
-title: ''
+title: BUG
 labels: ''
-assignees: ''
+assignees: myintn02
 
 ---
 
